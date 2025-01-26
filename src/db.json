@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "eb16",
+      "userName": "vishal",
+      "email": "vishal@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "16ac",
+      "userName": "vishal",
+      "email": "22cs120@drngpit.ac.in",
+      "password": "12345"
+    },
+    {
+      "id": "98b4",
+      "userName": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc"
+    }
+  ]
+}
